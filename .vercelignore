@@ -1,0 +1,13 @@
+node_modules/
+dist/
+artifacts/
+.chrome-*-profile/
+
+# Dideli redagavimo šaltiniai; svetainė naudoja optimizuotus WebP failus.
+assets/images/*-placeholder.png
+assets/images/modeira-logo-transparent-source.png
+assets/images/modeira-logo-reference.jpg
+assets/modeira-imones-pristatymas.pdf
+
+# Vietiniai generavimo ir QA įrankiai diegimo metu nereikalingi.
+tools/
